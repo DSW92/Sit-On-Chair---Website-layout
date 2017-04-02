@@ -1,5 +1,4 @@
 # Sit-On-Chair---Website-layout
 
 ## Preview
-![My image](DSW92.github.com/Sit-On-Chair---Website-layout
-/images/preview1.png)
+![Alt text](/relative/images/preview1.png?raw=true "Optional Title")
